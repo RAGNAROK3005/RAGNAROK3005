@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Aadarsh Yadav
 
-<!--
-**RAGNAROK3005/RAGNAROK3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Cyber Security student at Uttaranchal University
 
-Here are some ideas to get you started:
+💻 Interested in Cyber Security, C Programming, Data Structures, DBMS, Networking, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 I enjoy understanding how systems work, solving technical problems, and learning about cybersecurity.
+
+🚀 Currently learning:
+• C Programming and Data Structures
+• Cyber Security fundamentals
+• Database Management Systems
+• Computer Networking
+• Mini Projects and Practical Applications
+
+🛠️ Tech: C | SQL | HTML | CSS | Git | GitHub
+
+📌 Projects: CipherTalk, Lost & Found System, and other academic and personal projects.
+
+🎯 Goal: To build strong technical skills and develop a career in Cyber Security.
